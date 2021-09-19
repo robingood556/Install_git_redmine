@@ -1,4 +1,4 @@
-# lenenergo
+# Repo for config RADE and install Gitlab\Redmine
 
 
 ### MDADM
@@ -14,9 +14,9 @@
 [Gitlab\Nginx conf.](https://netpoint-dc.com/blog/gitlab-setup-centos-debian-ubuntu/)
 
 
-RAID conf.
+### RAID conf.
 
-***
+[Raid conf.](https://www.linuxbabe.com/linux-server/linux-software-raid-1-setup)
 
 ### Certbot(SSL cert)
 
