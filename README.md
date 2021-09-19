@@ -3,7 +3,7 @@
 
 ### MDADM
 
-[MDAMD link](dmosk.ru/miniinstruktions.php?mini=mdadm)
+[MDAMD link](https://dmosk.ru/miniinstruktions.php?mini=mdadm)
 
 ### Redmine - Redmine + Mysql + Nginx
 
